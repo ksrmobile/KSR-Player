@@ -1,2 +1,2 @@
-# hdonghua-player
-https://kjeymax.github.io/hdonghua-player/?url=<.m3u8 video url>
+# KSR-Player
+https://ksrmobile.github.io/KSR-Player/?url=<.m3u8 video url>
